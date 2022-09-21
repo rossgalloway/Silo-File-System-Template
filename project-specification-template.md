@@ -3,7 +3,8 @@ sidebar_label: 'Specification Doc 📝'
 sidebar_position: 1
 ---
 
-# [Project Name] - Specification Document 
+# [Project Name]
+# Specification Document 
 
 | Info                  |                                      |
 | -----------------     | ---------------------------------    |

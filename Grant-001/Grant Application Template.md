@@ -3,7 +3,8 @@ sidebar_label: 'Grant Application 📝'
 sidebar_position: 1
 ---
 
-# [Grant Title] - Grant #XXX
+# [Project Title]
+# Grant #XXX
 
 | Info                  |                                          |
 | -----------------     | ---------------------------------        |
